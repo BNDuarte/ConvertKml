@@ -1,0 +1,11 @@
+C:\Users\Bruno\source\repos\ConvertKML\KmlToObject\bin\Debug\netcoreapp2.2\KmlToObject.deps.json
+C:\Users\Bruno\source\repos\ConvertKML\KmlToObject\bin\Debug\netcoreapp2.2\KmlToObject.runtimeconfig.json
+C:\Users\Bruno\source\repos\ConvertKML\KmlToObject\bin\Debug\netcoreapp2.2\KmlToObject.runtimeconfig.dev.json
+C:\Users\Bruno\source\repos\ConvertKML\KmlToObject\bin\Debug\netcoreapp2.2\KmlToObject.dll
+C:\Users\Bruno\source\repos\ConvertKML\KmlToObject\bin\Debug\netcoreapp2.2\KmlToObject.pdb
+C:\Users\Bruno\source\repos\ConvertKML\KmlToObject\obj\Debug\netcoreapp2.2\KmlToObject.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\ConvertKML\KmlToObject\obj\Debug\netcoreapp2.2\KmlToObject.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\ConvertKML\KmlToObject\obj\Debug\netcoreapp2.2\KmlToObject.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\ConvertKML\KmlToObject\obj\Debug\netcoreapp2.2\KmlToObject.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\ConvertKML\KmlToObject\obj\Debug\netcoreapp2.2\KmlToObject.dll
+C:\Users\Bruno\source\repos\ConvertKML\KmlToObject\obj\Debug\netcoreapp2.2\KmlToObject.pdb
